@@ -60,6 +60,7 @@ p {
     /* width: 50%; */
     position: relative;
     box-shadow: 0.6em 0.6em 1.2em 1.2em rgb(0 0 0 / 5%);
+    text-align: center;
 }
 .title {
     text-align: center;
@@ -68,4 +69,17 @@ p {
 
 .contact-me {
     align-content: center;
+}
+
+.education {
+  text-transform: uppercase;
+}
+div.container.about hr hr {
+  width: 50%;;
+}
+
+.aboutme {
+  color: #A26000;
+  text-align: center;
+  margin-top: 100px;
 }
